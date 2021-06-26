@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT%2FApache--2.0-green)](https://github.com/subreme/rust-template-test/#license)
 [![Release](https://img.shields.io/github/v/release/subreme/rust-template-test?label=Release&color=blue&sort=semver)](https://github.com/subreme/rust-template-test/releases/latest/)
 
-## Introduction
+## Overview
 
 This is a project template intended to be used with the `cargo generate` command
 to simplify the process of publishing a repository written in
